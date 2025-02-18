@@ -1,2 +1,3 @@
 # pushkarCollage
-This is a demo for apna collare
+This is a demo for apna collage.
+Author is pushkar singh.
